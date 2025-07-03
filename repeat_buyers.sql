@@ -1,4 +1,4 @@
--- 👇 Repeat buyer analysis: users who purchased more than once
+--Repeat buyer analysis: users who purchased more than once
 WITH purchases AS (
     SELECT
         user_id,
