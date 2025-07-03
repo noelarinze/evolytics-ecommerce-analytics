@@ -1,4 +1,4 @@
--- 👇 Count unique users at each funnel step, grouped by device type
+--Count unique users at each funnel step, grouped by device type
 SELECT
     device,                -- Device type: Mobile, Desktop, or Tablet
     event_type,            -- Funnel step: view, add_to_cart, etc.
