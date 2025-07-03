@@ -1,4 +1,4 @@
--- 👇 Daily cohort retention matrix: signup day vs days retained
+--Daily cohort retention matrix: signup day vs days retained
 WITH signup_dates AS (
     SELECT
         user_id,
