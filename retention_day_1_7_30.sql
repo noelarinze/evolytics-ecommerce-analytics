@@ -1,4 +1,4 @@
--- ✅ Retention rates at Day 1, 7, and 30 based on signup date
+-- Retention rates at Day 1, 7, and 30 based on signup date
 WITH signup_dates AS (
     SELECT
         user_id,
