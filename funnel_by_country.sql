@@ -1,4 +1,4 @@
--- 👇 Funnel analysis segmented by user country
+--Funnel analysis segmented by user country
 SELECT
     u.country,             -- User's country (from users table)
     e.event_type,          -- Funnel step (from events table)
